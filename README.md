@@ -5,7 +5,7 @@ Fixes light dupe with beds for claiming/land protection plugins
 [![Example Video](https://img.youtube.com/vi/OZ99W8jlnfY/0.jpg)](https://www.youtube.com/watch?v=OZ99W8jlnfY)
 
 ## Download
-You can download the latest version from [here]()
+You can download the latest version from [here](https://github.com/MCCasper/LightDupeFix/releases/tag/Stable)
 
 ## Building
 1. Clone the repository
