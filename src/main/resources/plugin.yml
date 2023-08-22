@@ -1,4 +1,4 @@
 name: LightDupeFix
 version: '${version}'
 main: wtf.casper.lightdupefix.LightDupeFix
-api-version: 1.19
+api-version: 1.13
